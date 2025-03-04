@@ -15,13 +15,11 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
 
-This project is a responsive social links profile page, created as a solution to a Frontend Mentor challenge. It displays a user's profile image, name, location, bio, and social media links in a simple, dark-themed card layout.
+This project is a responsive social links profile page, created as a solution to a Frontend Mentor challenge. It displays a my profile image, name, location, bio, and social media links in a simple, dark-themed card layout.
 
 Users should be able to:
 
@@ -34,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Social Links Profile Solution](https://github.com/Enilolade/social-links-profile)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site]([https://your-live-site-url.com](https://enilolade.github.io/social-links-profile/))
 
 ## My process
 
