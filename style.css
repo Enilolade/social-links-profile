@@ -1,0 +1,104 @@
+* {
+  font-family: "Inter", serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body,
+.container,
+.profile,
+.social-links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  background-color: hsl(0, 0%, 8%);
+  color: hsl(0, 0%, 100%);
+  cursor: default;
+  font-size: 14px;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.container {
+  background-color: hsl(0, 0%, 12%);
+  border-radius: 10px;
+  height: 23rem;
+  padding: 1.5rem 1rem;
+  gap: 1rem;
+  width: 100%;
+  max-width: 300px;
+}
+
+.profile {
+  gap: 1rem;
+  text-align: center;
+}
+
+.profile-image {
+  border-radius: 50%;
+  height: 60px;
+  width: 60px;
+}
+
+.profile-name {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.profile-location {
+  color: hsl(75, 94%, 57%);
+  font-size: 10px;
+  font-weight: 600;
+  margin-top: 5px;
+}
+
+.profile-bio {
+  font-size: 10px;
+}
+
+.social-links {
+  gap: 0.5rem;
+}
+
+button {
+  background-color: hsl(0, 0%, 20%);
+  border: none;
+  border-radius: 5px;
+  color: hsl(0, 0%, 100%);
+  font-size: 12px;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  width: 13rem;
+}
+
+button:hover {
+  background-color: hsla(0, 0%, 100%, 0.237);
+  cursor: pointer;
+}
+
+button a {
+  color: hsl(0, 0%, 100%);
+  text-decoration: none;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(0, 0%, 100%);
+}
+
+@media (min-width: 1024px) {
+  body {
+    gap: 0.5rem;
+  }
+  .container {
+    transform: scale(0.8);
+  }
+}
