@@ -107,7 +107,7 @@ button:hover,
   body {
     gap: 0.5rem;
   }
-  .container {
+  /* .container {
     transform: scale(0.8);
-  }
+  } */
 }
