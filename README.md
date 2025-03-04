@@ -71,4 +71,4 @@ This scales down the container slightly for laptop screens (applied in @media (m
 ## Author
 
 - Website - [Enilolade aka Lolly]
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Enilolade)
+- Frontend Mentor - [@Enilolade](https://www.frontendmentor.io/profile/Enilolade)
