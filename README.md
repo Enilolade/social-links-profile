@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Social Links Profile Solution](https://github.com/Enilolade/social-links-profile)
-- Live Site URL: [Live Site]([https://your-live-site-url.com](https://enilolade.github.io/social-links-profile/))
+- Live Site URL: [Live Site](https://enilolade.github.io/social-links-profile/)
 
 ## My process
 
