@@ -76,13 +76,22 @@ button {
   width: 13rem;
 }
 
-button:hover {
+button:hover,
+.social-links a:hover {
   background-color: hsla(0, 0%, 100%, 0.237);
   cursor: pointer;
 }
 
-button a {
+.social-links a {
+  background-color: hsl(0, 0%, 20%);
+  border: none;
+  border-radius: 5px;
   color: hsl(0, 0%, 100%);
+  font-size: 12px;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  width: 13rem;
+  text-align: center;
   text-decoration: none;
 }
 
